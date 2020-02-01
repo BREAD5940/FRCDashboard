@@ -78,6 +78,9 @@ header {
     /* You'll need to mess with this a bit to get your camera to work. Replace the url with a live-updating image feed from your camera. Using other camera streaming systems will require some tweaking. */
     background-image: url('roborio-5940-frc.local:5800/?action=stream'); /* TODO: see if this works */
 }
+field {
+    background-image: url('i.imgur.com/hISO1Y7.png');
+}
 article {
     top: 0;
     left: 50vw;
